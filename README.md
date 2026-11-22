@@ -1,5 +1,9 @@
 # Avoiding insurmountable queue backlogs
 
+> Original article by David Yanacek for the Amazon Builders’ Library (December 5, 2019). [Read the article on AWS](https://builder.aws.com/content/3EuRcgkTP1MI0c7zM8W6HL3WIqA/avoiding-insurmountable-queue-backlogs).
+>
+> This edition adds diagrams to help readers see how messages move through queues, how backlogs form, and how the techniques in the article help clear or prevent them.
+
 How Amazon prevents queue backlogs from becoming unrecoverable, using backpressure, prioritization, and constant work to drain queues safely.
 
 David
